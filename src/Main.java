@@ -11,7 +11,7 @@ public static void main(String[] args) {
     scanner.nextLine();
     System.out.println("Witaj " + name + ". Za " + (5 - level) + " lata będę pisał maturę!");
 
-    System.out.println("Co chcesz robić po zakończeniu szkoły średniej?");
+    System.out.println("Co chcesz robić po zakończeniu szkoły średniej");
     String plan = scanner.nextLine();
     System.out.println(plan);
 }
